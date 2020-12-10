@@ -4,16 +4,21 @@ My final project repository for RCES
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdl2115/rces-final-project/main)
 
-# An Analysis of the Effect of the Global Warming Potential Gases 
+# Research Question
 
+How does the increase in greenhouse gas concentration correlate with sea surface temperature and sea ice extent on the global scale?   
 
-# Scientific Question
-The comparison of the impact between high global warming potential gases and CO2
-Which types of greenhouse gases contribute the most to global warming? 
+# Datasets
 
-# Dataset
+Datasets of Global Greenhouse Gases Emissions:
 
-Carbon Dioxide https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html
+Emission by Gas: https://www.epa.gov/sites/production/files/2016-08/global-ghg-emissions_fig-1.csv
+
+Emission by Sector: https://www.epa.gov/sites/production/files/2016-08/global-ghg-emissions_fig-2.csv
+
+Datasets of Global Annual Mean Concentration and Growth Rates of Greenhouse Gases 
+
+Carbon Dioxide https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_data.html
 
 Nitrous Oxide https://www.esrl.noaa.gov/gmd/ccgg/trends_n2o/
 
@@ -21,13 +26,20 @@ Methane https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/
 
 Sulfur Hexafluoride: https://www.esrl.noaa.gov/gmd/ccgg/trends_sf6/
 
+Dataset of Sea Surface Temperature (SST): http://www.esrl.noaa.gov/psd/thredds/dodsC/Datasets/noaa.ersst.v5/sst.mnmean.nc
+
+Datasets of Sea Ice Extent:
+
+Northern Hemisphere in February: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/N/2
+
+Northern Hemisphere in August: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/N/8
+
+Southern Hemisphere in February: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/S/2
+
+Southern Hemisphere in August: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/S/8
+
 
 # Summary of Analysis
 
-In the analysis, I will plot and compare the concentration in the time series of greenhouse gases and their annual growth rates. Then, I will analyze their distribution and find a correlation with the increase in temperature. I also plan to show the change in sea level and ice loss, which correspond to the increase in global temperature. Finally, I will apply data analysis to this dataset for finding insights into the contribution of each greenhouse gas.
+To determine the correlation of greenhouse gas with other climate forcing, I will plot the global concentration and the annual growth rates of each major greenhouse gas, the mean SST anamolies (1960 - 2019), and the Sea Ice Extent (1979 - 2020). Then, I will analyze the overall trends/patterns of each plot and use these patterns to identify the correlation.  
 
-# Potential Plots in the Project:
-1) The concentration in timeseries and the annual growth rate of each greenhouse gas.
-2) The global distribution of greenhouse gases.
-3) The temperature increase associated with greenhouse gases.
-4) The change in sea level and ice loss. 
