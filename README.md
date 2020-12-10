@@ -41,5 +41,5 @@ Southern Hemisphere in August: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea
 
 # Summary of Analysis
 
-To determine the correlation of greenhouse gas with other climate forcing, I will plot the global concentration and the annual growth rates of each major greenhouse gas, the mean SST anamolies (1960 - 2019), and the Sea Ice Extent (1979 - 2020). Then, I will analyze the overall trends/patterns of each plot and use these patterns to identify the correlation.  
+To determine the correlation of greenhouse gas with other climate forcing, I will plot the global concentration and the annual growth rates of each major greenhouse gas, the mean SST anamolies (1960 - 2019), and the Sea Ice Extent (1979 - 2020). Then, I will analyze the overall patterns of each plot and use these patterns to identify the relationship between the increase in greenhouse gas with the SST anomal  
 
