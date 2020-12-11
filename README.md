@@ -5,7 +5,7 @@ My final project repository for RCES
 
 ## Research Question
 
-How does the increase in greenhouse gas concentration correlate with sea surface temperature (SST) and sea ice extent on the global scale?   
+How does the increase in greenhouse gas concentration correlate with sea surface temperature and sea ice extent on the global scale?   
 
 ## Datasets
 
