@@ -3,11 +3,11 @@ My final project repository for RCES
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdl2115/rces-final-project/main)
 
-# Research Question
+## Research Question
 
-How does the increase in greenhouse gas concentration correlate with sea surface temperature and sea ice extent on the global scale?   
+How does the increase in greenhouse gas concentration correlate with sea surface temperature (SST) and sea ice extent on the global scale?   
 
-# Datasets
+## Datasets
 
 Datasets of Global Greenhouse Gases Emissions:
 
@@ -37,7 +37,7 @@ Southern Hemisphere in February: https://www.ncdc.noaa.gov/snow-and-ice/extent/s
 
 Southern Hemisphere in August: https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/S/8
 
-# Summary of Analysis
+## Summary of Analysis
 
 To determine the correlation of greenhouse gas with other climate forcing, I will plot the global concentration and the annual growth rates of each major greenhouse gas, the mean SST anamolies (1960 - 2019), and the Sea Ice Extent (1979 - 2020). Then, I will analyze the overall patterns of each plot and use these patterns to identify the relationship between the increase in greenhouse gas with the SST anomaly and sea ice extent.  
 
